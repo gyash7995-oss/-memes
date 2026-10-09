@@ -1,4 +1,4 @@
-## The College Meme Repo ##
+# The College Meme Repo
 
 While everyone else is building serious AI apps, fancy websites, and world-changing startups, we decided to solve the real problems of student life: a shortage of memes.
 
@@ -14,7 +14,7 @@ Technically, you're not lying.
 
 ---
 
-🎯 Why Does This Repo Exist?
+## 🎯 Why Does This Repo Exist?
 
 - 😂 To collect legendary memes and iconic dialogues.
 - 💻 To learn Git and GitHub without crying over complicated projects.
@@ -22,7 +22,7 @@ Technically, you're not lying.
 - 🧠 To prove that learning to code doesn't always require building something serious.
 - 🏆 To flex your GitHub contribution history with questionable achievements.
 
-📜 The Rules of Meme-dom
+## 📜 The Rules of Meme-dom
 
 1. Keep It Clean 🧼
 
@@ -54,7 +54,7 @@ One genuinely funny contribution beats 50 random files named "final_meme_final_R
 
 Never made a Pull Request before? Perfect. This is your chance!
 
-Step 1: Fork the Repository 🍴
+# Step 1: Fork the Repository 🍴
 
 Click the Fork button in the top-right corner of this repository.
 
@@ -62,7 +62,7 @@ This creates your own copy of the project on GitHub.
 
 Important: Fork first. Otherwise, you'll be standing outside the repo like a student who forgot their ID card.
 
-Step 2: Clone Your Fork 💻
+# Step 2: Clone Your Fork 💻
 
 Open your terminal and run the command below. Replace "YOUR-USERNAME" with your actual GitHub username and "REPO-NAME" with your fork's repository name.
 
@@ -72,7 +72,7 @@ Enter the project folder:
 
 cd -memes
 
-Step 3: Add Your Meme ✍️
+# Step 3: Add Your Meme ✍️
 
 Create a new text file in the appropriate folder. Give it a meaningful name and add your meme's title and a funny one- or two-line description.
 
@@ -84,7 +84,7 @@ Description: When the answer to every question is somehow 7.
 
 Keep your file names clean and follow the existing repository structure.
 
-Step 4: Commit Your Masterpiece 🗿
+# Step 4: Commit Your Masterpiece 🗿
 
 You've created a meme. Now make history.
 
@@ -93,7 +93,7 @@ git commit -m "added thala meme"
 
 Congratulations! Your meme now has a commit history. It has achieved more academic recognition than some of us.
 
-Step 5: Push to Your Fork 📤
+# Step 5: Push to Your Fork 📤
 
 Upload your changes to your GitHub repository:
 
@@ -101,7 +101,7 @@ git push origin main
 
 If your default branch has a different name, use that branch instead.
 
-Step 6: Create a Pull Request 🔥
+# Step 6: Create a Pull Request 🔥
 
 Go to your fork on GitHub and click Contribute → Open pull request, or open a new Pull Request from the original repository's Pull Requests tab.
 
@@ -115,7 +115,7 @@ Your first open-source contribution is officially in progress! 🎉
 
 ---
 
-🧑‍💻 GitHub Skills You'll Accidentally Learn
+## 🧑‍💻 GitHub Skills You'll Accidentally Learn
 
 Skill| What You'll Do
 Fork| Create your own copy
@@ -127,7 +127,7 @@ Collaboration| Work with other meme enthusiasts
 
 Who said learning Git had to be boring?
 
-🏆 Hall of Fame
+## 🏆 Hall of Fame
 
 Every contributor deserves recognition for making the internet a slightly more chaotic place.
 
@@ -137,7 +137,7 @@ We may not change the world, but we can definitely change the README.
 
 ---
 
-❤️ Ready to Contribute?
+## ❤️ Ready to Contribute?
 
 Bring your memes. Bring your friends. Bring your questionable sense of humour.
 
