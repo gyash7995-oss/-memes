@@ -4,10 +4,11 @@ While everyone else is building serious AI apps, fancy websites, and world-chang
 
 It all started with the legendary "ek kachauri, do samosas." And now? We're building an entire meme collection, one Pull Request at a time.
 
-From "Thala for a reason" to "Dekh raha hai Binod" — if it makes your friends laugh, it belongs here.
+From "Thala for a rean" to "Dekh raha hai Binod" — if it makes your friends laugh, it belongs here.
 
 The real plot twist? You'll actually learn Git, GitHub, Forks, Commits, and Pull Requests while contributing absolute nonsense. And once you're done, you can proudly tell your teachers:
-
+ "Thala for a rean" to 
+  "Thala for a rean" to 
 "Sir, I contributed to an open-source project."
 
 Technically, you're not lying.
