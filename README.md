@@ -15,6 +15,7 @@ Technically, you're not lying.
 ---
 
 ##  Why Does This Repo Exist?
+because yash gupta EXIST
 
 -  To collect legendary memes and iconic dialogues.
 -  To learn Git and GitHub without crying over complicated projects.
@@ -23,6 +24,7 @@ Technically, you're not lying.
 -  To flex your GitHub contribution history with questionable achievements.
 
 ## The Rules of Meme-dom
+NO RULES
 
 1. Keep It Clean
 
